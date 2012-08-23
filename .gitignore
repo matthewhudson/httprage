@@ -1,0 +1,57 @@
+# Admin folder
+_admin/
+
+# Ignore node_modules
+node_modules/
+
+# BAK files
+*.bak
+
+# Todo
+TODO.md
+
+# Mac OS X Finder and whatnot
+.DS_Store
+
+# Windows Explorer
+Thumbs.db
+
+# CouchDB
+couchdb.stderr
+couchdb.stdout
+
+# Thumbnails
+._*
+
+# Files that might appear on external disk
+.Spotlight-V100
+.Trashes
+
+# XCode (and ancestors) per-user config (very noisy, and not relevant)
+*.mode1
+*.mode1v3
+*.mode2v3
+*.perspective
+*.perspectivev3
+*.pbxuser
+
+# Generated files
+VersionX-revision.h
+
+# build products
+build/
+*.[oa]
+
+# Other source repository archive directories (protects when importing)
+.hg
+.svn
+CVS
+
+# automatic backup files
+*~.nib
+*.swp
+*~
+*(Autosaved).rtfd/
+Backup[ ]of[ ]*.pages/
+Backup[ ]of[ ]*.key/
+Backup[ ]of[ ]*.numbers/
